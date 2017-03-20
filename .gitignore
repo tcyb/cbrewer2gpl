@@ -17,6 +17,9 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# iPython checkpoints
+.ipynb_checkpoints/
+
 # =========================
 # Operating System Files
 # =========================
